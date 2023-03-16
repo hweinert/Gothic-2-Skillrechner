@@ -1,0 +1,68 @@
+C:\Users\Henry Weinert\source\repos\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\obj\Debug\net6.0-windows\Lernpunkte-Rechner Gothic 2 DNdR.csproj.AssemblyReference.cache
+C:\Users\Henry Weinert\source\repos\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\obj\Debug\net6.0-windows\Lernpunkte-Rechner Gothic 2 DNdR.csproj.GenerateResource.cache
+C:\Users\Henry Weinert\source\repos\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\obj\Debug\net6.0-windows\Lernpunkte-Rechner Gothic 2 DNdR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henry Weinert\source\repos\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\obj\Debug\net6.0-windows\Lernpunkte-Rechner Gothic 2 DNdR.AssemblyInfoInputs.cache
+C:\Users\Henry Weinert\source\repos\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\obj\Debug\net6.0-windows\Lernpunkte-Rechner Gothic 2 DNdR.AssemblyInfo.cs
+C:\Users\Henry Weinert\source\repos\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\obj\Debug\net6.0-windows\Lernpunkte-Rechner Gothic 2 DNdR.csproj.CoreCompileInputs.cache
+C:\Users\Henry Weinert\source\repos\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\bin\Debug\net6.0-windows\Lernpunkte-Rechner Gothic 2 DNdR.exe
+C:\Users\Henry Weinert\source\repos\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\bin\Debug\net6.0-windows\Lernpunkte-Rechner Gothic 2 DNdR.deps.json
+C:\Users\Henry Weinert\source\repos\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\bin\Debug\net6.0-windows\Lernpunkte-Rechner Gothic 2 DNdR.runtimeconfig.json
+C:\Users\Henry Weinert\source\repos\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\bin\Debug\net6.0-windows\Lernpunkte-Rechner Gothic 2 DNdR.dll
+C:\Users\Henry Weinert\source\repos\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\bin\Debug\net6.0-windows\Lernpunkte-Rechner Gothic 2 DNdR.pdb
+C:\Users\Henry Weinert\source\repos\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\obj\Debug\net6.0-windows\Lernpunkte-Rechner Gothic 2 DNdR.dll
+C:\Users\Henry Weinert\source\repos\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\obj\Debug\net6.0-windows\refint\Lernpunkte-Rechner Gothic 2 DNdR.dll
+C:\Users\Henry Weinert\source\repos\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\obj\Debug\net6.0-windows\Lernpunkte-Rechner Gothic 2 DNdR.pdb
+C:\Users\Henry Weinert\source\repos\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\obj\Debug\net6.0-windows\Lernpunkte-Rechner Gothic 2 DNdR.genruntimeconfig.cache
+C:\Users\Henry Weinert\source\repos\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\obj\Debug\net6.0-windows\ref\Lernpunkte-Rechner Gothic 2 DNdR.dll
+C:\Users\Henry Weinert\source\repos\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\obj\Debug\net6.0-windows\Lernpunkte_Rechner_Gothic_2_DNdR.MainForm.resources
+C:\Users\Klaus Dieter\source\repos\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\obj\Debug\net6.0-windows\Lernpunkte-Rechner Gothic 2 DNdR.csproj.AssemblyReference.cache
+C:\Users\Klaus Dieter\source\repos\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\obj\Debug\net6.0-windows\Lernpunkte_Rechner_Gothic_2_DNdR.MainForm.resources
+C:\Users\Klaus Dieter\source\repos\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\obj\Debug\net6.0-windows\Lernpunkte-Rechner Gothic 2 DNdR.csproj.GenerateResource.cache
+C:\Users\Klaus Dieter\source\repos\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\obj\Debug\net6.0-windows\Lernpunkte-Rechner Gothic 2 DNdR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Klaus Dieter\source\repos\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\obj\Debug\net6.0-windows\Lernpunkte-Rechner Gothic 2 DNdR.AssemblyInfoInputs.cache
+C:\Users\Klaus Dieter\source\repos\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\obj\Debug\net6.0-windows\Lernpunkte-Rechner Gothic 2 DNdR.AssemblyInfo.cs
+C:\Users\Klaus Dieter\source\repos\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\obj\Debug\net6.0-windows\Lernpunkte-Rechner Gothic 2 DNdR.csproj.CoreCompileInputs.cache
+C:\Users\Klaus Dieter\source\repos\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\obj\Debug\net6.0-windows\Lernpunkte-Rechner Gothic 2 DNdR.dll
+C:\Users\Klaus Dieter\source\repos\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\obj\Debug\net6.0-windows\refint\Lernpunkte-Rechner Gothic 2 DNdR.dll
+C:\Users\Klaus Dieter\source\repos\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\obj\Debug\net6.0-windows\Lernpunkte-Rechner Gothic 2 DNdR.pdb
+C:\Users\Klaus Dieter\source\repos\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\bin\Debug\net6.0-windows\Lernpunkte-Rechner Gothic 2 DNdR.exe
+C:\Users\Klaus Dieter\source\repos\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\bin\Debug\net6.0-windows\Lernpunkte-Rechner Gothic 2 DNdR.deps.json
+C:\Users\Klaus Dieter\source\repos\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\bin\Debug\net6.0-windows\Lernpunkte-Rechner Gothic 2 DNdR.runtimeconfig.json
+C:\Users\Klaus Dieter\source\repos\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\bin\Debug\net6.0-windows\Lernpunkte-Rechner Gothic 2 DNdR.dll
+C:\Users\Klaus Dieter\source\repos\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\bin\Debug\net6.0-windows\Lernpunkte-Rechner Gothic 2 DNdR.pdb
+C:\Users\Klaus Dieter\source\repos\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\obj\Debug\net6.0-windows\Lernpunkte-Rechner Gothic 2 DNdR.genruntimeconfig.cache
+C:\Users\Klaus Dieter\source\repos\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\obj\Debug\net6.0-windows\ref\Lernpunkte-Rechner Gothic 2 DNdR.dll
+C:\Users\rmpF958y\Documents\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\bin\Debug\net6.0-windows\Lernpunkte-Rechner Gothic 2 DNdR.exe
+C:\Users\rmpF958y\Documents\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\bin\Debug\net6.0-windows\Lernpunkte-Rechner Gothic 2 DNdR.deps.json
+C:\Users\rmpF958y\Documents\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\bin\Debug\net6.0-windows\Lernpunkte-Rechner Gothic 2 DNdR.runtimeconfig.json
+C:\Users\rmpF958y\Documents\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\bin\Debug\net6.0-windows\Lernpunkte-Rechner Gothic 2 DNdR.dll
+C:\Users\rmpF958y\Documents\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\bin\Debug\net6.0-windows\Lernpunkte-Rechner Gothic 2 DNdR.pdb
+C:\Users\rmpF958y\Documents\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\obj\Debug\net6.0-windows\Lernpunkte-Rechner Gothic 2 DNdR.csproj.AssemblyReference.cache
+C:\Users\rmpF958y\Documents\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\obj\Debug\net6.0-windows\Lernpunkte_Rechner_Gothic_2_DNdR.MainForm.resources
+C:\Users\rmpF958y\Documents\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\obj\Debug\net6.0-windows\Lernpunkte-Rechner Gothic 2 DNdR.csproj.GenerateResource.cache
+C:\Users\rmpF958y\Documents\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\obj\Debug\net6.0-windows\Lernpunkte-Rechner Gothic 2 DNdR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmpF958y\Documents\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\obj\Debug\net6.0-windows\Lernpunkte-Rechner Gothic 2 DNdR.AssemblyInfoInputs.cache
+C:\Users\rmpF958y\Documents\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\obj\Debug\net6.0-windows\Lernpunkte-Rechner Gothic 2 DNdR.AssemblyInfo.cs
+C:\Users\rmpF958y\Documents\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\obj\Debug\net6.0-windows\Lernpunkte-Rechner Gothic 2 DNdR.csproj.CoreCompileInputs.cache
+C:\Users\rmpF958y\Documents\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\obj\Debug\net6.0-windows\Lernpunkte-Rechner Gothic 2 DNdR.dll
+C:\Users\rmpF958y\Documents\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\obj\Debug\net6.0-windows\refint\Lernpunkte-Rechner Gothic 2 DNdR.dll
+C:\Users\rmpF958y\Documents\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\obj\Debug\net6.0-windows\Lernpunkte-Rechner Gothic 2 DNdR.pdb
+C:\Users\rmpF958y\Documents\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\obj\Debug\net6.0-windows\Lernpunkte-Rechner Gothic 2 DNdR.genruntimeconfig.cache
+C:\Users\rmpF958y\Documents\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\obj\Debug\net6.0-windows\ref\Lernpunkte-Rechner Gothic 2 DNdR.dll
+C:\Users\weine\Desktop\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\bin\Debug\net6.0-windows\Lernpunkte-Rechner Gothic 2 DNdR.exe
+C:\Users\weine\Desktop\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\bin\Debug\net6.0-windows\Lernpunkte-Rechner Gothic 2 DNdR.deps.json
+C:\Users\weine\Desktop\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\bin\Debug\net6.0-windows\Lernpunkte-Rechner Gothic 2 DNdR.runtimeconfig.json
+C:\Users\weine\Desktop\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\bin\Debug\net6.0-windows\Lernpunkte-Rechner Gothic 2 DNdR.dll
+C:\Users\weine\Desktop\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\bin\Debug\net6.0-windows\Lernpunkte-Rechner Gothic 2 DNdR.pdb
+C:\Users\weine\Desktop\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\obj\Debug\net6.0-windows\Lernpunkte-Rechner Gothic 2 DNdR.csproj.AssemblyReference.cache
+C:\Users\weine\Desktop\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\obj\Debug\net6.0-windows\Lernpunkte_Rechner_Gothic_2_DNdR.MainForm.resources
+C:\Users\weine\Desktop\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\obj\Debug\net6.0-windows\Lernpunkte-Rechner Gothic 2 DNdR.csproj.GenerateResource.cache
+C:\Users\weine\Desktop\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\obj\Debug\net6.0-windows\Lernpunkte-Rechner Gothic 2 DNdR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\weine\Desktop\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\obj\Debug\net6.0-windows\Lernpunkte-Rechner Gothic 2 DNdR.AssemblyInfoInputs.cache
+C:\Users\weine\Desktop\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\obj\Debug\net6.0-windows\Lernpunkte-Rechner Gothic 2 DNdR.AssemblyInfo.cs
+C:\Users\weine\Desktop\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\obj\Debug\net6.0-windows\Lernpunkte-Rechner Gothic 2 DNdR.csproj.CoreCompileInputs.cache
+C:\Users\weine\Desktop\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\obj\Debug\net6.0-windows\Lernpunkte-Rechner Gothic 2 DNdR.dll
+C:\Users\weine\Desktop\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\obj\Debug\net6.0-windows\refint\Lernpunkte-Rechner Gothic 2 DNdR.dll
+C:\Users\weine\Desktop\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\obj\Debug\net6.0-windows\Lernpunkte-Rechner Gothic 2 DNdR.pdb
+C:\Users\weine\Desktop\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\obj\Debug\net6.0-windows\Lernpunkte-Rechner Gothic 2 DNdR.genruntimeconfig.cache
+C:\Users\weine\Desktop\Lernpunkte-Rechner Gothic 2 DNdR\Lernpunkte-Rechner Gothic 2 DNdR\obj\Debug\net6.0-windows\ref\Lernpunkte-Rechner Gothic 2 DNdR.dll

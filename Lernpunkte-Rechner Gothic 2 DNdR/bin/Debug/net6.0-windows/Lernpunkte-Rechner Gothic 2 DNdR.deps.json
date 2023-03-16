@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lernpunkte-Rechner Gothic 2 DNdR/1.0.0": {
+        "runtime": {
+          "Lernpunkte-Rechner Gothic 2 DNdR.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lernpunkte-Rechner Gothic 2 DNdR/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
